@@ -6,7 +6,7 @@
 ### Solution: MLP+XGBoost ###
 - 赛类型：结构化数据、时间序列比赛
 - 竞赛任务：通过市场历史交易数据信息来预测市场未来发展趋势并基于”Buy low, sell high”原则进行决策。
-- 模型：多层感知器（Muti－Layer Perception , MLP）+ XGBoost（![image](https://user-images.githubusercontent.com/57436423/130831460-07b50c1f-cd90-4c6d-a1bc-25f4ca62fcee.png)）
+- 模型：多层感知器（Muti－Layer Perception , MLP）+ XGBoost（eXtreme Gradient Boosting）
 
 **Test your model against future real market data!** 通过1 million rows of historical data构建模型，***用未来6个月的实际市场结果来验证模型***（比赛在2月22日截至提交，模型验证2.23-8.23的未来数据）
 
