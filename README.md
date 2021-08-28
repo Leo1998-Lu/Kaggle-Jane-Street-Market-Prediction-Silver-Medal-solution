@@ -1,7 +1,7 @@
 ### [Kaggle-Jane-Street-Market-Prediction-Silver-Medal-solution](https://www.kaggle.com/c/jane-street-market-prediction/overview) ###
 2021 Kaggle Featured Code Competition: Jane Street Market Prediction (Final ***Rank 173/4245*** teams)
 
-![image](https://user-images.githubusercontent.com/57436423/130827768-ca43cc23-dca9-4d3b-a302-3e86bce6b69e.png)
+![image](https://user-images.githubusercontent.com/57436423/131211593-8b011cf5-b531-4b1f-b215-c7c4e2ebf0c9.png)
 
 ### Solution: MLP+XGBoost ###
 - 赛类型：结构化数据、时间序列比赛
