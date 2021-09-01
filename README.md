@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/57436423/131211593-8b011cf5-b531-4b1f-b215-c7c4e2ebf0c9.png)
 
 ### Solution: MLP+XGBoost ###
-- 赛类型：结构化数据、时间序列比赛
+- 比赛类型：结构化数据、时间序列比赛
 - 竞赛任务：通过市场历史交易数据信息来预测市场未来发展趋势并基于”Buy low, sell high”原则进行决策。
 - 模型：多层感知器（Muti－Layer Perception , MLP）+ XGBoost（eXtreme Gradient Boosting）
 
