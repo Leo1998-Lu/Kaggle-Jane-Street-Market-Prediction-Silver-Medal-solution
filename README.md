@@ -16,4 +16,4 @@
 #### Final Rank: 173/4245 ####
 ![image](https://user-images.githubusercontent.com/57436423/130828342-ca920629-9262-4905-9bab-55390d46fa8b.png)
 
-有幸和GiBa大神同框hah!
+第一次做量化SOLO带队摘银！
